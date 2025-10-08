@@ -7,7 +7,7 @@ Accessibility audit of websites using WCAG guidelines
 
 ### Summary
 This assessment identified several issues related to headings, form labels, and focus visibility.  
-See the [VPAT Report](./CAC_Business_Registration_VPAT_Report.docx) for detailed conformance results.
+See the [VPAT Report](https://1drv.ms/b/c/1d086afcc27e0af5/Efk9o87SpwJMust28G4HnDYB4l4kdcz6SFlfwyhu0HV8yg?e=YMfAGq) for detailed conformance results.
 
 ### Key Findings
 - Missing programmatic headings (1.3.1)
